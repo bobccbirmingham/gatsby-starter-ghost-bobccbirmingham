@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://bobccbirmingham.herokuapp.com",
+    "contentApiKey": "6350eea79f60d7001db4d0d5:b010b88029b879dc37cf83649a2be54a9b479652437905a6ea386df5b8eefc12"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://bobccbirmingham.herokuapp.com",
+    "contentApiKey": "6350eea79f60d7001db4d0d5:b010b88029b879dc37cf83649a2be54a9b479652437905a6ea386df5b8eefc12"
   }
 }
